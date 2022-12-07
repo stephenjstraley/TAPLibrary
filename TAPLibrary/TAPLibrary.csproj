@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Flurl" Version="3.0.0" />
+    <PackageReference Include="Flurl.Http" Version="3.0.0" />
+    <PackageReference Include="Microsoft.Azure.ServiceBus" Version="5.1.0" />
+    <PackageReference Include="SocketLabs.EmailDelivery" Version="1.2.3" />
+  </ItemGroup>
+
+</Project>
